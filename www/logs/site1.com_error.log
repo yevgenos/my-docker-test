@@ -1,0 +1,1 @@
+2020/08/18 09:58:03 [error] 23916#0: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 192.168.214.140, server: site1.com, request: "GET / HTTP/1.1", host: "site1.com"
